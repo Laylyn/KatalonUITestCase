@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selesai</name>
+   <tag></tag>
+   <elementGuidId>5058bbaa-d502-4eba-993e-1fe222268c0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.d2edcug0.hpfvmrgz.qv66sw1b.c1et5uql.lr9zc1uh.a8c37x1j.fe6kdd0r.mau55g9w.c8b282yb.keod5gw0.nxhoafnm.aigsh9s9.d3f4x2em.iv3no6db.jq4qci2q.a3bd9o3v.lrazzd5p.bwm1u5wc > span.a8c37x1j.ni8dbmo4.stjgntxs.l9j0dhe7.ltmttdrg.g0qnabr5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[6]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c15d4fd7-d4c8-485c-952e-d005f0a58b3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a8c37x1j ni8dbmo4 stjgntxs l9j0dhe7 ltmttdrg g0qnabr5</value>
+      <webElementGuid>df25daa3-b587-4188-8a77-4c7a4fbe6f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selesai</value>
+      <webElementGuid>bd7a647d-3c37-4564-ab1d-35c480285731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_6s5d _71pn _-kb segoe&quot;]/div[@class=&quot;__fb-light-mode l9j0dhe7 tkr6xdv7&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;j83agx80 cbu4d94t h3gjbzrl l9j0dhe7&quot;]/div[@class=&quot;tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot;]/div[@class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot;]/div[@class=&quot;__fb-light-mode gs1a9yip rq0escxv j83agx80 cbu4d94t taijpn5t kb5gq1qc h3gjbzrl&quot;]/div[@class=&quot;ll8tlv6m rq0escxv j83agx80 taijpn5t tgvbjcpo hpfvmrgz hzruof5a dflh9lhu scb9dxdr q5pvgw0d l7iv3u6u f59ohtjy aw1xchsf&quot;]/div[@class=&quot;l9j0dhe7 du4w35lb cjfnh4rs j83agx80 cbu4d94t lzcic4wl ni8dbmo4 stjgntxs oqq733wu cwj9ozl2 io0zqebd m5lcvass fbipl8qg nwvqtn77 nwpbqux9 iy3k6uwz e9a99x49 g8p4j16d bv25afu3 d2edcug0&quot;]/div[@class=&quot;idiwt2bm lzcic4wl ni8dbmo4 stjgntxs l9j0dhe7 dbpd2lw6&quot;]/div[@class=&quot;rq0escxv du4w35lb ms05siws pnx7fd3z b7h9ocf4 pmk7jnqg j9ispegn kr520xx4 pedkr2u6 oqq733wu&quot;]/div[@class=&quot;n1z2s9g6 fjf4s8hc tu1s4ah4 f7vcsfb0 k3eq2f2k&quot;]/div[@class=&quot;k4urcfbm&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw i1fnvgqd gs1a9yip kbz25j0m rl25f0pe d1544ag0 tw6a2znq discj3wi dlv3wnog rl04r1d5 enqfppq2 muag1w35&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 hpfvmrgz buofh1pr g5gj957u ph5uu5jm b3onmgus e5nlhep0 ecm0bbzt mg4g778l&quot;]/div[@class=&quot;oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz nhd2j8a9 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of n00je7tq arfg74bv qs9ysxi8 k77z8yql abiwlrkh p8dawk7l lzcic4wl rq0escxv pq6dq46d cbu4d94t taijpn5t l9j0dhe7 k4urcfbm&quot;]/div[@class=&quot;l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t bp9cbjyn owycx6da btwxx1t3 kt9q3ron ak7q8e6j isp2s0ed ri5dt5u2 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv d1544ag0 tw6a2znq s1i5eluu tv7at329&quot;]/div[@class=&quot;bp9cbjyn j83agx80 taijpn5t c4xchbtz by2jbhx6 a0jftqn4&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb d2edcug0 hpfvmrgz bp9cbjyn j83agx80 pfnyh3mw j5wkysh0 hytbnt81&quot;]/span[@class=&quot;d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em iv3no6db jq4qci2q a3bd9o3v lrazzd5p bwm1u5wc&quot;]/span[@class=&quot;a8c37x1j ni8dbmo4 stjgntxs l9j0dhe7 ltmttdrg g0qnabr5&quot;]</value>
+      <webElementGuid>8d1ab086-2a71-454f-a162-0969a5304625</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[6]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/span/span</value>
+      <webElementGuid>a723be81-c5a3-4d22-948c-f60a89b55cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memperkenalkan Pesan Lintas Aplikasi'])[1]/following::span[4]</value>
+      <webElementGuid>09688f90-59fa-4d5f-a674-382099b99770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buka Menu'])[2]/following::span[7]</value>
+      <webElementGuid>689d5ccc-ea19-4362-8ff7-cff89bb4d824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari tentang Perubahan Ini'])[1]/preceding::span[1]</value>
+      <webElementGuid>804e6ba6-d61e-40ff-99ee-bd8ed088fe68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[2]/preceding::span[3]</value>
+      <webElementGuid>319565c6-d126-4db1-b2d8-ba98fb78d054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selesai']/parent::*</value>
+      <webElementGuid>1d121eab-6cf6-4e82-9a18-6b42d51c6382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/span/span</value>
+      <webElementGuid>cef4af61-3e73-46ec-bbbf-97b3f3d7c65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selesai' or . = 'Selesai')]</value>
+      <webElementGuid>86d83985-344a-4916-a4df-7651b25218d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
